@@ -1,4 +1,4 @@
-package com.ibksys.sidekicks.xqel;
+package org.ibkdev.xqel;
 
 import static org.junit.Assert.*;
 
