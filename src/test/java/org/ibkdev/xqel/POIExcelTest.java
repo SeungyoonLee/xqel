@@ -1,12 +1,12 @@
 package org.ibkdev.xqel;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.fail;
 
-import org.junit.Test;
+import org.junit.Ignore;
 
 public class POIExcelTest {
 
-	@Test
+	@Ignore
 	public void test() {
 		fail("Not yet implemented");
 	}
