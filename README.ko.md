@@ -1,7 +1,10 @@
 # xqel
 Xqel 은 SQL과 엑셀을 연결하는 프레임워크 입니다.
 
+[![Build Status](https://travis-ci.org/SeungyoonLee/xqel.svg?branch=master)](https://travis-ci.org/SeungyoonLee/xqel)
 [![Gitter](https://badges.gitter.im/SeungyoonLee/xqel.svg)](https://gitter.im/SeungyoonLee/xqel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[English](https://github.com/SeungyoonLee/xqel/blob/master/README.md)
 
 # 목표
 - 데이터 소스로 부터 엑셀 파일을 쉽게 만드는 방법을 제공.
