@@ -3,6 +3,7 @@
  */
 package org.ibkdev.xqel;
 
+import java.lang.instrument.Instrumentation;
 import java.util.TreeMap;
 
 /**

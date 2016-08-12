@@ -8,3 +8,8 @@ Xqel is a framework that combines excel and SQL.
 
 # Goals
 - Provides simple way to make Excel reports from SQL(Structured Query Language).
+
+
+# References
+
+- [jxls](http://jxls.sourceforge.net/index.html) : 
